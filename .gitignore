@@ -15,3 +15,7 @@
 *.exe
 *.out
 *.app
+
+# others
+noperfect
+code_img
